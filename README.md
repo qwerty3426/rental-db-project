@@ -40,3 +40,4 @@ NFR → NFR.md
 Схема БД → schema/erd.asc
 
 Інструкції з розгортання → DEPLOYMENT.md
+![alt text](image.png)
